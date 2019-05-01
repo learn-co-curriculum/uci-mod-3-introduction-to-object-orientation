@@ -4,6 +4,10 @@
 
 We'll introduce the concept of Object Oriented Programming (OOP)
 
+## Learning Goals
+
+- Define Object Oriented Programming
+
 ## Object-Oriented Programming (OOP)
 
 _An object-oriented approach to application development makes programs more
